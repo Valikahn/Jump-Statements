@@ -25,4 +25,4 @@ Careful selection of topics
 Topics are carefully selected to give you a broad exposure to C#, while not overwhelming you with information overload. These topics include object-oriented programming concepts, error handling techniques, file handling techniques and more.
 
 Learn The C# Programming Language Fast
-Concepts are presented in a "to-the-point" style to cater to the busy individual. With this book, you can learn C# in just one day and start coding immediately.
+Concepts are presented in a "to-the-point" style to cater to the busy individual. With this book, you can learn C# in ju st one day and start coding immediately.
